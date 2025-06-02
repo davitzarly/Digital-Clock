@@ -2,7 +2,7 @@
 
 Jam digital modern dengan tampilan elegan dan mewah menggunakan HTML, CSS, dan JavaScript.
 
-![Digital Clock Preview](preview.png)
+![Digital Clock Preview]
 
 ## Fitur
 
