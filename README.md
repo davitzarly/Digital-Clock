@@ -84,7 +84,7 @@ Project ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## Pembuat
 
-Dibuat dengan ❤️ oleh [Nama Anda]
+Dibuat dengan ❤️ oleh [Davit Zarly]
 
 ---
 
